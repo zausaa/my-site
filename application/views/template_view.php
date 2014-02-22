@@ -6,20 +6,21 @@
 <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <title><?=$title?></title>
-
+    <!--Fonts from Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
     <!-- Bootstrap -->
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap/css/main.css" rel="stylesheet">
 </head>
 <body>
         <div class="header">
-            <div class="header-layout">
+            <div class="header-layout layout">
                 <div class="header-navigation">
                     <ul class="navigation-bar">
-                        <li><a href="#">Обо мне</a></li>
-                        <li><a href="#">Портфолио</a></li>
-                        <li><a href="#">Услуги</a></li>
-                        <li><a href="#">Блог</a></li>
-                        <li><a href="#">Контакты</a></li>
+                        <li><a href="#">Обо мне</a>
+                        <li><a href="#">Портфолио</a>
+                        <li><a href="#">Услуги</a>
+                        <li><a href="#">Блог</a>
+                        <li><a href="#">Контакты</a>
                     </ul>
                 </div>
             </div>
